@@ -11,7 +11,7 @@ tags: [dates/2022/02/13/migration, writeups, ]
 At any given time, for any given action, we calculate
 
 # Functional Use - How to Do Things
-Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding such activities `Action Potential = Perceived Value / Friction`  and take it apart step by step, then work to reinstate our mindset with this as a principle
+Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding such activities `Action Potential = Perceived Value / Friction` and take it apart step by step, then work to reinstate our mindset with this as a principle
 
 We have an **Action Desire** which doesn't correlate with the **Action Potential** for this same action, to make it correlate there are a few things we can modify.
 
