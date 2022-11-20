@@ -1,0 +1,14 @@
+# will push to netify on each commit
+name: Deploy to Netlify
+on:
+  push:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Netlify Deploy
+      uses: jsmrcaga/action-netlify-deploy@v1.8.0
+      with:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETIFY_DEPLOY_KEY }}
+        NETLIFY_DEPLOY_TO_PROD: true
