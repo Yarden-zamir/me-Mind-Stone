@@ -57,8 +57,8 @@ const styleSheet = [{
 
 function Graph({graph}) {
 
-    const [width, setWidth] = useState("300px");
-    const [height, setHeight] = useState("300px");
+    const [width, setWidth] = useState("500px");
+    const [height, setHeight] = useState("500px");
     const [graphData, setGraphData] = useState({
         nodes: graph.nodes,
         edges: graph.edges
