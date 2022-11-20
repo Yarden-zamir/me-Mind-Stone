@@ -46,7 +46,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
                 ✅ <span><a href="https://github.com/Yarden-zmr/me">Make a pull request!</a></span>
             </Alert>
             <div dangerouslySetInnerHTML={{__html: content}}/>
-            {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
+            <button onClick={handleInternalLinkClick}>Potato button 🥔</button>
             {/*<hr/>*/}
             <div>
                 <BackLinks linkList={backLinks}/>
