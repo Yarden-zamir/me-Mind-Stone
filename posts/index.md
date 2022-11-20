@@ -1,8 +1,6 @@
 # What Are You Doing Yarden?
 
-I base a lot of my thinking on a loose model of [[Action Potential model|Action Potential]], I believe that to make something happen I can either expand willpower (fuel) in order to push myself towards that goal. Or I can expand will power to instead reduce the friction of achieving said goal.
-
-I always wanted to write more than just to myself, this is my attempt to do so, by making my writing [[Public by default]] and thus making the friction point on the **hiding** action instead of on the **sharing** one
+I always wanted to write more than just to myself, this is my attempt to do so, by making my writing [[Public by default]] and thus making the friction point on the **hiding** action instead of on the **sharing** one, thus increasing the [[Action Potential model|Action Potential]] of my desired goal
 
 # Half Baked
 
