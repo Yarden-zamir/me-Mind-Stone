@@ -6,6 +6,13 @@ I always wanted to write more than just to myself, this is my attempt to do so, 
 # Half Baked
 The nature of [[Public by default]] means that most of the "content" here is half baked ideas and tangents, that's alright
 
+# Some random links to start exploring 
+Get a feel for what I want this sandbox to be like
+[[The Sovereign Mind]]
+[[Shower Thought - how can we capitalize]]
+[[I bought winrar]]
+[[Digital Mindfield Manifest]]
+
 # Open Source tho??
 I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind" or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
 
