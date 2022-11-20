@@ -10,11 +10,11 @@ The nature of [[Public by default]] means that most of the "content" here is hal
 
 # Some Random Links to Start Exploring
 
-Get a feel for what I want this sandbox to be like
-[[The Sovereign Mind]]
-[[Shower Thought - how can we capitalize]]
-[[I bought winrar]]
-[[Digital Mindfield Manifest]]
+Get a feel for what I want this sandbox to be like  
+[[The Sovereign Mind]]  
+[[Shower Thought - how can we capitalize]]  
+[[I bought winrar]]  
+[[Digital Mindfield Manifest]]  
 
 # Open Source tho??
 
