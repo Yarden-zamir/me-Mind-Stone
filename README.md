@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b1d2cc8-feef-4d4b-9f00-736b3de6007e/deploy-status)](https://app.netlify.com/sites/yarden-zmr/deploys)
 # What Are You Doing Yarden?
 I base a lot of my thinking on a loose model of [[Action Potential model|Action Potential]], I believe that to make something happen I can either expand willpower (fuel) in order to push myself towards that goal. Or I can expand will power to instead reduce the friction of achieving said goal.
 
