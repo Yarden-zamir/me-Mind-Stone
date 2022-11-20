@@ -21,7 +21,7 @@ const layout = {
     sort: undefined, // a sorting function to order the nodes; e.g. function(a, b){ return a.data('weight') - b.data('weight') }
     animate: true, // whether to transition the node positions
     animationDuration: 500, // duration of animation in ms if enabled
-    animationEasing: undefined, // easing of animation if enabled
+    animationEasing: true, // easing of animation if enabled
     //animateFilter: function ( node, i ){ return true; }, // a function that determines whether the node should be animated.  All nodes animated by default on animate enabled.  Non-animated nodes are positioned immediately when the layout starts
     ready: undefined, // callback on layoutready
     stop: undefined, // callback on layoutstop
