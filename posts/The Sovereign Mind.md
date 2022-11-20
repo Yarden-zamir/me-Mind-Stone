@@ -9,11 +9,11 @@ My theory and outlook on life
 I am writing not to teach or expose something new, but to assemble language and tools for something we all already posses. Treat this as a convoluted dictionary before a treating it as a guide.
 
 ## Core
-[[Human biological evolution vs societal evolution]]
-### [[The Sovereign Mind/Why we should have control over our minds|Why we should have control over our minds]]
+### [[Human biological evolution vs societal evolution]]
+### [[Why we should have control over our minds]]
 ### [[Action Potential model]]
 ### [[Alignment of Interest]]
 ### [[Mans Violent Nature]]
 ### [[Problematic elasticity]]
-### [[The Sovereign Mind/From The Ground Up|From the Ground Up]]
+### [[From The Ground Up|From the Ground Up]]
 
