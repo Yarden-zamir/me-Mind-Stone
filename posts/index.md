@@ -6,7 +6,7 @@ I always wanted to write more than just to myself, this is my attempt to do so, 
 # Half Baked
 The nature of [[Public by default]] means that most of the "content" here is half baked ideas and tangents, that's alright
 
-# Some random links to start exploring 
+# Some Random Links to Start Exploring
 Get a feel for what I want this sandbox to be like
 [[The Sovereign Mind]]
 [[Shower Thought - how can we capitalize]]
