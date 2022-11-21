@@ -15,10 +15,13 @@ Sometimes there is something we dearly want to do but find ourselves again and a
 
 We have an **Action Desire** which doesn't correlate with the **Action Potential** for this same action, to make it correlate there are a few things we can modify.
 
-This could be wanting to 
+This could be wanting to learn a new language or it could be wanting not to eat sugar (in which case the Action Desire is low and the action potential is high)
 
-- Increase precieved value of action
-- Decrese
+- Manipulate perceived value of action
+- Manipulate friction of action
+- Manipulate perceived value of inverse action
+- Manipulate friction of inverse action
+
 ## The Action's Attributes
 The easiest way we know to "motivate" us is to modify the existing actions attributes. This is the classic approach
 
