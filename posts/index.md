@@ -21,3 +21,6 @@ I think it would be cool to think, if already in a public way, also in an open o
 # Ok, but How?
 
 [MindStone](https://mindstone.tuancao.me/) is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish) that generates a next js static site that I can then ci directly from [[github]] to [[netify]] or gh pages
+
+# What is in here?
+Ideas, thoughts, writeups, 
