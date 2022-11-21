@@ -21,6 +21,10 @@ This could be wanting to learn a new language or it could be wanting not to eat 
 - Manipulate friction of action
 - Manipulate perceived value of inverse action
 - Manipulate friction of inverse action
+[idea]
+
+> [!IDEA] Title
+> Contents
 
 ## The Action's Attributes
 The easiest way we know to "motivate" us is to modify the existing actions attributes. This is the classic approach
