@@ -22,7 +22,7 @@ This could be wanting to learn a new language or it could be wanting not to eat 
 - Manipulate perceived value of inverse action
 - Manipulate friction of inverse action
 
-> [!IDEA] Random tangent - how would this look with [[tree based writing]]?
+> [!IDEA] Random tangent - how would this look with [[Branch based writing]]?
 > - Manipulate
 > 	- [Action's, Inverse Action's]
 > 		- perceived value
